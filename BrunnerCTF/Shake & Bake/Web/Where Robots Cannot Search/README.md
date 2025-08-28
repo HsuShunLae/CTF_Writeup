@@ -1,4 +1,4 @@
-# 🤖 Where Robots Cannot Search – Web Challenge (30 pts)
+# 🤖 Where Robots Cannot Search - Web Challenge (30 pts)
 
 **Difficulty:** Beginner
 
