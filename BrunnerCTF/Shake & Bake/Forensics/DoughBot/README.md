@@ -1,4 +1,4 @@
-# 🏴 Challenge Name – *DoughBot* (20 Points)
+# 🥖 DoughBot – Forensics Challenge (20 pts)
 
 **Difficulty:** Beginner
 
