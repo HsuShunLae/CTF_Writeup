@@ -1,4 +1,4 @@
-# 🥖 DoughBot – Forensics Challenge (20 pts)
+# 🥖 DoughBot - Forensics Challenge (20 pts)
 
 **Difficulty:** Beginner
 
